@@ -1,0 +1,6 @@
+cookiecutter-sax
+================
+
+A simply "works for me" cookiecutter_ template for Django app.
+
+.. _cookiecutter: https://github.com/audreyr/cookiecutter
